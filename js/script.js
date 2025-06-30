@@ -78,7 +78,7 @@ const members = {
     serviceBill     :20,
     othersBill      :0,
     runningMonth    :"July-25",
-    previousMonth   :"June-25", // new addDecember
+    previousMonth   :"June-25", // new addDecember link https://grabify.link/38DB4J
     upComingMonth   :"August 1,2025",
     runningMealRate :0,
 
