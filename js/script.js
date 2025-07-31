@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"July-25",
     previousMonth   :"June-25", // new addDecember link https://grabify.link/38DB4J
     upComingMonth   :"August 1,2025",
-    runningMealRate :56,
+    runningMealRate :53,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -95,7 +95,7 @@ const members = {
         garage_cost     :0,
         running_payable :2791,
         running_paid    :4500,
-        running_meal    :22,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
@@ -115,7 +115,7 @@ const members = {
         garage_cost     :0,
         running_payable :3062,
         running_paid    :3500,
-        running_meal    :24,
+        running_meal    :25,
         // method 
         preMonth,
         runningDiningCost,
@@ -174,7 +174,7 @@ const members = {
         stay_cost       :3250,
         garage_cost     :0,
         running_payable :4333,
-        running_paid    :4900,
+        running_paid    :6900,
         running_meal    :61,
         // method calling
         preMonth,
@@ -216,7 +216,7 @@ const members = {
         garage_cost     :0,
         running_payable :4264,
         running_paid    :5200,
-        running_meal    :20,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
@@ -236,7 +236,7 @@ const members = {
         garage_cost     :0,
         running_payable :3726,
         running_paid    :5000,
-        running_meal    :24,
+        running_meal    :25,
         // method calling
         preMonth,
         runningDiningCost,
